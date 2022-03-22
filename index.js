@@ -1,6 +1,6 @@
 let contador = 0;
 
-const url = "dado de 1gb";
+const url = "xablau2";
 
 function inicio() {
   contador++;
